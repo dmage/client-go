@@ -1,4 +1,4 @@
-module github.com/openshift/client-go
+module github.com/dmage/client-go
 
 go 1.18
 
